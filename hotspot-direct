@@ -1,5 +1,0 @@
-[Rule]
-# 热点网段直连
-IP-CIDR, 172.20.10.0/28, DIRECT   # iOS 热点默认网段
-IP-CIDR, 192.168.0.0/16, DIRECT   # 备用网段
-IP-CIDR, 10.0.0.0/8, DIRECT       # 部分设备会用此网段
